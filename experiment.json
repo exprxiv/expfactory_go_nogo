@@ -1,0 +1,12 @@
+{
+    "name": "expfactory_go_nogo",
+    "alt_name": "Go-No Go",
+    "description": "Subjects are required to respond to one stimulus (the 'go' stimulus) and not to another (the 'no-go' stmulus). The go stimulus is usually presented more frequently than the no-go stimulus, resulting in a prepotency to respond on all trials.",
+    "version": "1.0.1",
+    "repository": {"type": "git", "url": "https://github.com/exprxiv/expfactory_go_nogo.git"}, 
+    "contributors": ["Ian Eisenberg", "Zeynep Enkavi", "Patrick Bissett", "Vanessa Sochat", "Teon L Brooks", "Russell Poldrack"],
+    "duration": "7",
+    "engine": {"front-end": "jspsych"},
+    "ontology": [ {"convention": "Cognitive Atlas", "term": "tsk_4a57abb949a93"} ],
+    "reference": "http://www.sciencedirect.com/science/article/pii/0001691869900651"
+}
